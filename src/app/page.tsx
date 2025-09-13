@@ -1,3 +1,5 @@
+import GreetingCard from "@/components/GreetingCard";
+
 export default function Home() {
   return (
     <div className='bg-gray-50 min-h-screen flex flex-col items-center justify-center px-6'>
