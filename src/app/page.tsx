@@ -1,8 +1,8 @@
-import GreetingCard from "@/components/GreetingCard";
-
 export default function Home() {
   return (
     <div className='bg-gray-50 min-h-screen flex flex-col items-center justify-center px-6'>
+      {/* Testing taks */}
+
       {/* Hero Section */}
       <section className='text-center max-w-3xl'>
         <h1 className='text-4xl md:text-6xl font-bold text-gray-900'>
