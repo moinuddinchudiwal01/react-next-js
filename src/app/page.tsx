@@ -1,7 +1,10 @@
+import FruitSearch from "@/components/test/FruitSearch";
+
 export default function Home() {
   return (
     <div className='bg-gray-50 min-h-screen flex flex-col items-center justify-center px-6'>
       {/* Testing taks */}
+      <FruitSearch />
 
       {/* Hero Section */}
       <section className='text-center max-w-3xl'>
